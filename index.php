@@ -25,6 +25,7 @@
 					<input type="text" name="user" placeholder="Enter Your Name" />
 					<input type="text" name="message" placeholder="Enter A Message" />
 					<br />
+					<input class="shout-btn" type="submit" name="submit" value="Shout It Out" />
 				</form>
 			</div>
 		</div>
